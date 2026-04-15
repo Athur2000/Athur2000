@@ -48,7 +48,7 @@
 
 ## 📫 Contact
 <p align="center">
-  <a href="mailto:dev.arthurferreria@outlook.com">
+  <a href="mailto:dev_arthurrferreira@outlook.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
 </p>
