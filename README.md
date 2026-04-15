@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">
+  👨‍💻 Arthur Rodrigues
+</h1>
 
-<!--
-**Athur2000/Athur2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Focused+on+C;Future+Full-Stack+Developer;Always+learning+new+things" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+💻 Software Engineering Student  
+⚡ Focused on C Programming  
+🧠 Passionate about logic and problem solving  
+🎯 Goal: Become a high-level Software Engineer  
+
+---
+
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,c" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Athur2000&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athur2000&layout=compact&theme=tokyonight&border_radius=10"/>
+</p>
+
+---
+
+## 🔥 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Athur2000&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🧠 Skills in Progress
+- 🔹 Data Structures  
+- 🔹 Algorithms  
+- 🔹 Backend Development  
+- 🔹 Database Optimization  
+
+---
+
+## 📫 Contact
+<p align="center">
+  <a href="mailto:dev.arthurferreria@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Athur2000&color=blueviolet&style=for-the-badge"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+💡 "Discipline will take you where motivation can't."
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
