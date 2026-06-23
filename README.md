@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 💻 Software Engineering Student  
-⚡ Focused on C Programming  
+⚡ Focused on PHP Programming  
 🧠 Passionate about logic and problem solving  
 🎯 Goal: Become a high-level Software Engineer  
 
