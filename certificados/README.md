@@ -13,7 +13,7 @@ Welcome! This repository contains my certificates and completed courses.
 
 ## ✅ Completed
 
-### 🤖 Anthropic
+### 💻 Udemy
 - [Web Development](UC-51903677-56be-4773-ae53-08bdeb970815.pdf)
 
 ### 🤖 Anthropic
