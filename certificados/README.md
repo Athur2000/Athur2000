@@ -1,25 +1,66 @@
 # 📜 My Certificates
 
-Welcome! Here are my certifications and courses.
+Welcome! This repository contains my certificates and completed courses.
 
 ---
 
 ## 🚀 In Progress
-- 📘 Young Leaders  
-- 💻 C Programming  
-- 🌐 Web Development  
+
+- 🟦 Young Leaders
+- 💻 C Programming
+- 🌐 Web Development
 
 ---
 
 ## ✅ Completed
-- 🤖 [Claude Code – Anthropic](https://verify.skilljar.com/c/tfs398ck3r5o) | [PDF](./claude-code-anthropic.pdf)  
+
+### 🤖 Anthropic
+- [Claude Code in Action](./claude-code-anthropic.pdf)
+
+### 🛡️ Cisco
+- [Introduction to Cybersecurity](./UC-51903677-56be-4773-ae53-08bdeb970815.pdf)
+
+### 💻 SENAI
+- [Letramento Digital](./Letramento_Digital-Certificado_60225.pdf)
+
+### 🧠 Rocketseat
+- [Learning Agility](./Certificado_Learning%20Agility.pdf)
+
+### 📚 Additional Courses
+
+- [Rhetoric: The Art of Written Persuasion and Oratory – Harvard University](#additional-courses)
 
 ---
 
-## 🎓 Additional Courses (Non-formal Education)
-- 🎤 Rhetoric: The Art of Written Persuasion and Oratory – Harvard University *(Free Course)*  
+## 🎓 Additional Courses
+
+### Harvard University
+**Rhetoric: The Art of Written Persuasion and Oratory**
+
+Free non-formal education course focused on rhetoric, written persuasion and oratory.
 
 ---
 
-## 📂 Certificates
-(All certificates are available in this repository for professional reference)
+## 📊 Certificates Overview
+
+| Institution | Course | Status |
+|---|---|---|
+| Anthropic | Claude Code in Action | ✅ Completed |
+| Cisco | Introduction to Cybersecurity | ✅ Completed |
+| SENAI | Letramento Digital | ✅ Completed |
+| Rocketseat | Learning Agility | ✅ Completed |
+| Udemy | Web Development | ✅ Completed |
+| Harvard University | Rhetoric: The Art of Written Persuasion and Oratory | 📚 Completed |
+| FIAP | Young Leaders | 🚀 In Progress |
+
+---
+
+## 📁 Repository Structure
+
+```text
+certificados/
+├── Certificado_Learning Agility.pdf
+├── Letramento_Digital-Certificado_60225.pdf
+├── UC-51903677-56be-4773-ae53-08bdeb970815.pdf
+├── claude-code-anthropic.pdf
+└── README.md
