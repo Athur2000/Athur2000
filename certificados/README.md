@@ -6,13 +6,15 @@ Welcome! This repository contains my certificates and completed courses.
 
 ## 🚀 In Progress
 
-- 🟦 Young Leaders
-- 💻 C Programming
-- 🌐 Web Development
+- 📝 Leadership Communication
+- 🌐 C550s
 
 ---
 
 ## ✅ Completed
+
+### 🤖 Anthropic
+- [Web Development](UC-51903677-56be-4773-ae53-08bdeb970815.pdf)
 
 ### 🤖 Anthropic
 - [Claude Code in Action](./claude-code-anthropic.pdf)
@@ -51,7 +53,7 @@ Free non-formal education course focused on rhetoric, written persuasion and ora
 | Rocketseat | Learning Agility | ✅ Completed |
 | Udemy | Web Development | ✅ Completed |
 | Harvard University | Rhetoric: The Art of Written Persuasion and Oratory | 📚 Completed |
-| FIAP | Young Leaders | 🚀 In Progress |
+| FIAP | Leadership Communication | 🚀 In Progress |
 
 ---
 
