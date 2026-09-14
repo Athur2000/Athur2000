@@ -24,16 +24,16 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Athur2000&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athur2000&layout=compact&theme=tokyonight&border_radius=10"/>
+<p align="center"> 
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Athur2000&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" /> 
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athur2000&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" /> 
 </p>
 
 ---
 
 ## 🔥 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Athur2000&theme=tokyo-night"/>
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Athur2000&theme=tokyo-night&hide_border=true" /> 
 </p>
 
 ---
