@@ -31,7 +31,7 @@
 Interested in my certifications and completed courses?
 
 <p align="center">
-  <a href="https://github.com/Athur2000/certificados/README.md">
+  <a href="/Athur2000/certificados/README.md">
     <img src="https://img.shields.io/badge/View%20My%20Certificates-00F7FF?style=for-the-badge&logo=readme&logoColor=black" alt="View My Certificates">
   </a>
 </p>
