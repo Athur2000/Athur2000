@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-💻 Software Engineering student
-🧠 Passionate about logic, programming and problem solving
-⚙️ Currently studying C, algorithms and data structures
-🐘 Experience with PHP and backend development
-🎯 Goal: Become a high-level Software Engineer
+💻 Software Engineering student <br>
+🧠 Passionate about logic, programming and problem solving <br>
+⚙️ Currently studying C, algorithms and data structures <br>
+🐘 Experience with PHP and backend development <br>
+🎯 Goal: Become a high-level Software Engineer <br>
 
 ---
 
