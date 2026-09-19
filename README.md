@@ -15,6 +15,7 @@
 ⚙️ Currently studying C, algorithms and data structures <br>
 🐘 Experience with PHP and backend development <br>
 🎯 Goal: Become a high-level Software Engineer <br>
+🔧 Assembly Aspirant <br>
 
 ---
 
