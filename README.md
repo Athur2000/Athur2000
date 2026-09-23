@@ -50,6 +50,14 @@ Interested in my certifications and completed courses?
 ## 📫 Contact
 
 <p align="center">
+  <a href="mailto:dev_arthurrferreira@outlook.com">
+    <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
 </p>
 
