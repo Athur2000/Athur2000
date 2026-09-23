@@ -1,6 +1,6 @@
-<h1 align="center">
-  👨‍💻 Arthur Rodrigues
-</h1>
+<p align="center">
+  <img src="./assets/title.svg" alt="Arthur Rodrigues">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Learning+C+%26+PHP;Future+Software+Engineer;Always+learning+new+things" />
