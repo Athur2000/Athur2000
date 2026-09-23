@@ -41,6 +41,10 @@ Interested in my certifications and completed courses?
 
 ---
 
+dist/github-snake.svg
+
+---
+
 <br>
 
 <p align="center">
