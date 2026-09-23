@@ -11,13 +11,33 @@
     </linearGradient>
 
     <!-- Gradiente do texto -->
-    <linearGradient id="textGradient"
-                    x1="0%" y1="0%"
-                    x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00F7FF"/>
-      <stop offset="50%" stop-color="#6C63FF"/>
-      <stop offset="100%" stop-color="#FF00FF"/>
-    </linearGradient>
+    <!-- Gradiente animado do texto -->
+<linearGradient id="textGradient"
+                x1="0%" y1="0%"
+                x2="100%" y2="0%">
+
+  <stop offset="0%" stop-color="#00F7FF">
+    <animate attributeName="stop-color"
+             values="#00F7FF;#6C63FF;#FF00FF;#00F7FF"
+             dur="4s"
+             repeatCount="indefinite"/>
+  </stop>
+
+  <stop offset="50%" stop-color="#6C63FF">
+    <animate attributeName="stop-color"
+             values="#6C63FF;#FF00FF;#00F7FF;#6C63FF"
+             dur="4s"
+             repeatCount="indefinite"/>
+  </stop>
+
+  <stop offset="100%" stop-color="#FF00FF">
+    <animate attributeName="stop-color"
+             values="#FF00FF;#00F7FF;#6C63FF;#FF00FF"
+             dur="4s"
+             repeatCount="indefinite"/>
+  </stop>
+
+</linearGradient>
 
     <!-- Brilho -->
     <filter id="glow">
