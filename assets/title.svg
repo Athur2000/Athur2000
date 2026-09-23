@@ -1,0 +1,34 @@
+<svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F7FF">
+        <animate attributeName="stop-color"
+          values="#00F7FF;#0066FF;#8A2BE2;#FF00FF;#00F7FF"
+          dur="5s" repeatCount="indefinite"/>
+      </stop>
+
+      <stop offset="50%" stop-color="#0066FF">
+        <animate attributeName="stop-color"
+          values="#0066FF;#8A2BE2;#FF00FF;#00F7FF;#0066FF"
+          dur="5s" repeatCount="indefinite"/>
+      </stop>
+
+      <stop offset="100%" stop-color="#8A2BE2">
+        <animate attributeName="stop-color"
+          values="#8A2BE2;#FF00FF;#00F7FF;#0066FF;#8A2BE2"
+          dur="5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <text
+    x="300"
+    y="52"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="36"
+    font-weight="bold"
+    fill="url(#gradient)">
+    👨‍💻 Arthur Rodrigues
+  </text>
+</svg>
