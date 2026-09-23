@@ -8,18 +8,16 @@
 
 ---
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/-00F7FF?style=flat-square">
+  💻 Software Engineering student<br>
+  🧠 Passionate about logic, programming and problem solving<br>
+  ⚙️ Currently studying C, algorithms and data structures<br>
+  🐘 Experience with PHP and backend development<br>
+  🎯 Aspiring Software Engineer<br>
+  🔧 Exploring Assembly
 </p>
-
-💻 Software Engineering student <br>
-🧠 Passionate about logic, programming and problem solving <br>
-⚙️ Currently studying C, algorithms and data structures <br>
-🐘 Experience with PHP and backend development <br>
-🎯 Goal: Become a high-level Software Engineer <br>
-🔧 Assembly Aspirant <br>
 
 ---
 
