@@ -56,7 +56,6 @@ Interested in my certifications and completed courses?
 </p>
 
 <br>
----
 
 ## 📫 Contact
 
