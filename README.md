@@ -44,30 +44,14 @@ Interested in my certifications and completed courses?
 <h2>📚 Currently Learning</h2>
 
 <p align="center">
-  <strong>⚙️ Low-Level</strong><br>
-  C • Memory • Pointers • Data Structures
+  <img src="https://skillicons.dev/icons?i=c,python,linux" />
 </p>
 
 <p align="center">
-  <strong>🐍 Python</strong><br>
-  OOP • Data Analysis • Visualization
+  <code>Algorithms</code>
+  <code>Data Structures</code>
+  <code>Cybersecurity</code>
 </p>
-
-<p align="center">
-  <strong>🔐 Cybersecurity</strong><br>
-  Security Fundamentals • Networking • Linux
-</p>
-
-<p align="center">
-  <strong>🧠 Computer Science</strong><br>
-  Algorithms • Logic • Problem Solving
-</p>
-
-<p align="center">
-  <strong>🔧 Exploring Next</strong><br>
-  Assembly • Reverse Engineering
-</p>
-
 ---
 
 ## 📫 Contact
