@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/title.svg" alt="Arthur Rodrigues">
+  <img src="./assets/header.svg?v=2" width="900">
 </p>
 
 <p align="center">
