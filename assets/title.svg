@@ -31,7 +31,7 @@
   </defs>
 
   <!-- Fundo -->
-  <rect width="900" height="300" fill="https://i.pinimg.com/736x/01/c7/da/01c7dacab25df0d6e9f038bdc6577419.jpg"/>
+  <rect width="900" height="300" fill="url(https://i.pinimg.com/736x/01/c7/da/01c7dacab25df0d6e9f038bdc6577419.jpg)"/>
 
   <!-- Elementos decorativos -->
   <circle cx="100" cy="70" r="60"
