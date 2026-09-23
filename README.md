@@ -57,13 +57,6 @@ Interested in my certifications and completed courses?
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Athur2000&color=blueviolet&style=for-the-badge" />
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer" />
