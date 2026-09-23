@@ -58,6 +58,6 @@ Interested in my certifications and completed courses?
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,35:00F7FF,65:6C63FF,100:FF00FF&height=120&section=footer" />
 </p>
 
