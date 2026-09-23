@@ -43,13 +43,37 @@ Interested in my certifications and completed courses?
 
 ## 📚 Currently Learning
 
-* 🔹 Data Structures
-* 🔹 Algorithms
-* 🔹 C Programming
-* 🔹 Backend Development
-* 🔹 Databases
-* 🔹 Software Engineering
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <strong>⚙️ C Programming</strong><br>
+      Pointers • Structs • Memory
+    </td>
+    <td align="center" width="180">
+      <strong>🧠 Algorithms</strong><br>
+      Logic • Problem Solving
+    </td>
+    <td align="center" width="180">
+      <strong>🗂️ Data Structures</strong><br>
+      Arrays • Structs • Organization
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center" width="180">
+      <strong>🐍 Python</strong><br>
+      POO • Data • Visualization
+    </td>
+    <td align="center" width="180">
+      <strong>🗄️ Databases</strong><br>
+      SQL • Data Management
+    </td>
+    <td align="center" width="180">
+      <strong>🔐 Cybersecurity</strong><br>
+      Fundamentals • CS50
+    </td>
+  </tr>
+</table>
 
 ---
 
