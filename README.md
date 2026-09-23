@@ -43,15 +43,19 @@ Interested in my certifications and completed courses?
 
 <h2>📚 Currently Learning</h2>
 
+<br>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,linux" />
 </p>
 
+<br>
+
 <p align="center">
-  <code>Algorithms</code>
-  <code>Data Structures</code>
-  <code>Cybersecurity</code>
+  Algorithms &nbsp; • &nbsp; Data Structures &nbsp; • &nbsp; Cybersecurity
 </p>
+
+<br>
 ---
 
 ## 📫 Contact
