@@ -41,39 +41,32 @@ Interested in my certifications and completed courses?
 
 ---
 
-## 📚 Currently Learning
+<h2>📚 Currently Learning</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="180">
-      <strong>⚙️ C Programming</strong><br>
-      Pointers • Structs • Memory
-    </td>
-    <td align="center" width="180">
-      <strong>🧠 Algorithms</strong><br>
-      Logic • Problem Solving
-    </td>
-    <td align="center" width="180">
-      <strong>🗂️ Data Structures</strong><br>
-      Arrays • Structs • Organization
-    </td>
-  </tr>
+<p align="center">
+  <strong>⚙️ Low-Level</strong><br>
+  C • Memory • Pointers • Data Structures
+</p>
 
-  <tr>
-    <td align="center" width="180">
-      <strong>🐍 Python</strong><br>
-      POO • Data • Visualization
-    </td>
-    <td align="center" width="180">
-      <strong>🗄️ Databases</strong><br>
-      SQL • Data Management
-    </td>
-    <td align="center" width="180">
-      <strong>🔐 Cybersecurity</strong><br>
-      Fundamentals • CS50
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <strong>🐍 Python</strong><br>
+  OOP • Data Analysis • Visualization
+</p>
+
+<p align="center">
+  <strong>🔐 Cybersecurity</strong><br>
+  Security Fundamentals • Networking • Linux
+</p>
+
+<p align="center">
+  <strong>🧠 Computer Science</strong><br>
+  Algorithms • Logic • Problem Solving
+</p>
+
+<p align="center">
+  <strong>🔧 Exploring Next</strong><br>
+  Assembly • Reverse Engineering
+</p>
 
 ---
 
