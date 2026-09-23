@@ -10,6 +10,10 @@
 
 ## 🚀 About Me
 
+<p>
+  <img src="https://img.shields.io/badge/-00F7FF?style=flat-square">
+</p>
+
 💻 Software Engineering student <br>
 🧠 Passionate about logic, programming and problem solving <br>
 ⚙️ Currently studying C, algorithms and data structures <br>
