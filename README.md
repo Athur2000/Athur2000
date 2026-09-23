@@ -41,17 +41,11 @@ Interested in my certifications and completed courses?
 
 ---
 
-dist/github-snake.svg
-
----
-
-<br>
-
 <p align="center">
-  Algorithms &nbsp; • &nbsp; Data Structures &nbsp; • &nbsp; Cybersecurity
+  <img src="./dist/github-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
-<br>
+---
 
 ## 📫 Contact
 
